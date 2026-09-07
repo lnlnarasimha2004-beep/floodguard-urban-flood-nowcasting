@@ -54,22 +54,22 @@ function MapView() {
   useEffect(() => {
     setIsLoading(true)
     setDataError(null)
-    fetch(`http://127.0.0.1:8000/simulate?rainfall=${rainfall}&hour=${hour}`)
+    fetch(`https://floodguard-backend-itmu.onrender.com/simulate?rainfall=${rainfall}&hour=${hour}`)
       .then((res) => { if (!res.ok) throw new Error('Simulation data is unavailable'); return res.json() })
       .then(setZones).catch((err) => setDataError(err.message)).finally(() => setIsLoading(false))
-    fetch(`http://127.0.0.1:8000/drainage-status?rainfall=${rainfall}&hour=${hour}`)
+    fetch(`https://floodguard-backend-itmu.onrender.com/drainage-status?rainfall=${rainfall}&hour=${hour}`)
       .then((res) => { if (!res.ok) throw new Error('Drainage data is unavailable'); return res.json() })
       .then(setDrainage).catch((err) => setDataError(err.message))
   }, [rainfall, hour])
 
   const findRoutes = () => {
     setRouteError(null)
-    fetch(`http://127.0.0.1:8000/route?start=${startNode}&end=${endNode}&rainfall=${rainfall}&hour=${hour}&safe=false`)
+    fetch(`https://floodguard-backend-itmu.onrender.com/route?start=${startNode}&end=${endNode}&rainfall=${rainfall}&hour=${hour}&safe=false`)
       .then((res) => res.json()).then((data) => {
         if (data.error) { setRouteError(data.error); setNormalRoute(null); return }
         setNormalRoute(data)
       }).catch((err) => setRouteError(String(err)))
-    fetch(`http://127.0.0.1:8000/route?start=${startNode}&end=${endNode}&rainfall=${rainfall}&hour=${hour}&safe=true`)
+    fetch(`https://floodguard-backend-itmu.onrender.com/route?start=${startNode}&end=${endNode}&rainfall=${rainfall}&hour=${hour}&safe=true`)
       .then((res) => res.json()).then((data) => {
         if (data.error) { setRouteError(data.error); setSafeRoute(null); return }
         setSafeRoute(data)
