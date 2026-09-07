@@ -1,0 +1,17 @@
+{
+  "model_type": "RandomForestRegressor",
+  "training_data": "Synthetic, physics-informed prototype data",
+  "samples": 6000,
+  "test_mae": 0.0281,
+  "test_r2": 0.9828,
+  "features": [
+    "rainfall_mm_hr",
+    "slope_percent",
+    "flow_accumulation",
+    "imperviousness",
+    "drainage_capacity",
+    "drainage_utilization",
+    "blockage_factor"
+  ],
+  "purpose": "Flood probability refinement. This model complements the rainfall-runoff and drainage physics model; it does not replace it."
+}

@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_0",
+        "risk": "LOW",
+        "elevation_m": 925.2,
+        "imperviousness": 0.5,
+        "drainage_capacity": 40,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.674,
+              12.925
+            ],
+            [
+              77.6755,
+              12.925
+            ],
+            [
+              77.6755,
+              12.9265
+            ],
+            [
+              77.674,
+              12.9265
+            ],
+            [
+              77.674,
+              12.925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_1",
+        "risk": "LOW",
+        "elevation_m": 925.2,
+        "imperviousness": 0.58,
+        "drainage_capacity": 50,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6755,
+              12.925
+            ],
+            [
+              77.67699999999999,
+              12.925
+            ],
+            [
+              77.67699999999999,
+              12.9265
+            ],
+            [
+              77.6755,
+              12.9265
+            ],
+            [
+              77.6755,
+              12.925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_2",
+        "risk": "LOW",
+        "elevation_m": 925.2,
+        "imperviousness": 0.66,
+        "drainage_capacity": 60,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.677,
+              12.925
+            ],
+            [
+              77.67850000000001,
+              12.925
+            ],
+            [
+              77.67850000000001,
+              12.9265
+            ],
+            [
+              77.677,
+              12.9265
+            ],
+            [
+              77.677,
+              12.925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_3",
+        "risk": "LOW",
+        "elevation_m": 925.2,
+        "imperviousness": 0.74,
+        "drainage_capacity": 70,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.67850000000001,
+              12.925
+            ],
+            [
+              77.68,
+              12.925
+            ],
+            [
+              77.68,
+              12.9265
+            ],
+            [
+              77.67850000000001,
+              12.9265
+            ],
+            [
+              77.67850000000001,
+              12.925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_4",
+        "risk": "LOW",
+        "elevation_m": 913.2,
+        "imperviousness": 0.82,
+        "drainage_capacity": 40,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.674,
+              12.9265
+            ],
+            [
+              77.6755,
+              12.9265
+            ],
+            [
+              77.6755,
+              12.928
+            ],
+            [
+              77.674,
+              12.928
+            ],
+            [
+              77.674,
+              12.9265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_5",
+        "risk": "LOW",
+        "elevation_m": 913.2,
+        "imperviousness": 0.5,
+        "drainage_capacity": 50,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6755,
+              12.9265
+            ],
+            [
+              77.67699999999999,
+              12.9265
+            ],
+            [
+              77.67699999999999,
+              12.928
+            ],
+            [
+              77.6755,
+              12.928
+            ],
+            [
+              77.6755,
+              12.9265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_6",
+        "risk": "LOW",
+        "elevation_m": 913.2,
+        "imperviousness": 0.58,
+        "drainage_capacity": 60,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.677,
+              12.9265
+            ],
+            [
+              77.67850000000001,
+              12.9265
+            ],
+            [
+              77.67850000000001,
+              12.928
+            ],
+            [
+              77.677,
+              12.928
+            ],
+            [
+              77.677,
+              12.9265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_7",
+        "risk": "LOW",
+        "elevation_m": 913.2,
+        "imperviousness": 0.66,
+        "drainage_capacity": 70,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.67850000000001,
+              12.9265
+            ],
+            [
+              77.68,
+              12.9265
+            ],
+            [
+              77.68,
+              12.928
+            ],
+            [
+              77.67850000000001,
+              12.928
+            ],
+            [
+              77.67850000000001,
+              12.9265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_8",
+        "risk": "LOW",
+        "elevation_m": 901.2,
+        "imperviousness": 0.74,
+        "drainage_capacity": 40,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.674,
+              12.928
+            ],
+            [
+              77.6755,
+              12.928
+            ],
+            [
+              77.6755,
+              12.9295
+            ],
+            [
+              77.674,
+              12.9295
+            ],
+            [
+              77.674,
+              12.928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_9",
+        "risk": "LOW",
+        "elevation_m": 901.2,
+        "imperviousness": 0.82,
+        "drainage_capacity": 50,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6755,
+              12.928
+            ],
+            [
+              77.67699999999999,
+              12.928
+            ],
+            [
+              77.67699999999999,
+              12.9295
+            ],
+            [
+              77.6755,
+              12.9295
+            ],
+            [
+              77.6755,
+              12.928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_10",
+        "risk": "LOW",
+        "elevation_m": 901.2,
+        "imperviousness": 0.5,
+        "drainage_capacity": 60,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.677,
+              12.928
+            ],
+            [
+              77.67850000000001,
+              12.928
+            ],
+            [
+              77.67850000000001,
+              12.9295
+            ],
+            [
+              77.677,
+              12.9295
+            ],
+            [
+              77.677,
+              12.928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_11",
+        "risk": "LOW",
+        "elevation_m": 901.2,
+        "imperviousness": 0.58,
+        "drainage_capacity": 70,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.67850000000001,
+              12.928
+            ],
+            [
+              77.68,
+              12.928
+            ],
+            [
+              77.68,
+              12.9295
+            ],
+            [
+              77.67850000000001,
+              12.9295
+            ],
+            [
+              77.67850000000001,
+              12.928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_12",
+        "risk": "LOW",
+        "elevation_m": 889.2,
+        "imperviousness": 0.66,
+        "drainage_capacity": 40,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.674,
+              12.929499999999999
+            ],
+            [
+              77.6755,
+              12.929499999999999
+            ],
+            [
+              77.6755,
+              12.931
+            ],
+            [
+              77.674,
+              12.931
+            ],
+            [
+              77.674,
+              12.929499999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_13",
+        "risk": "LOW",
+        "elevation_m": 889.2,
+        "imperviousness": 0.74,
+        "drainage_capacity": 50,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6755,
+              12.929499999999999
+            ],
+            [
+              77.67699999999999,
+              12.929499999999999
+            ],
+            [
+              77.67699999999999,
+              12.931
+            ],
+            [
+              77.6755,
+              12.931
+            ],
+            [
+              77.6755,
+              12.929499999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_14",
+        "risk": "LOW",
+        "elevation_m": 889.2,
+        "imperviousness": 0.82,
+        "drainage_capacity": 60,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.677,
+              12.929499999999999
+            ],
+            [
+              77.67850000000001,
+              12.929499999999999
+            ],
+            [
+              77.67850000000001,
+              12.931
+            ],
+            [
+              77.677,
+              12.931
+            ],
+            [
+              77.677,
+              12.929499999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "zone_15",
+        "risk": "LOW",
+        "elevation_m": 889.2,
+        "imperviousness": 0.5,
+        "drainage_capacity": 70,
+        "data_label": "Prototype / synthetic terrain data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.67850000000001,
+              12.929499999999999
+            ],
+            [
+              77.68,
+              12.929499999999999
+            ],
+            [
+              77.68,
+              12.931
+            ],
+            [
+              77.67850000000001,
+              12.931
+            ],
+            [
+              77.67850000000001,
+              12.929499999999999
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

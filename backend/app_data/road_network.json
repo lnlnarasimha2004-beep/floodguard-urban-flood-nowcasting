@@ -1,0 +1,372 @@
+{
+  "nodes": [
+    {
+      "id": "R_0_0",
+      "lat": 12.925,
+      "lon": 77.674
+    },
+    {
+      "id": "R_0_1",
+      "lat": 12.925,
+      "lon": 77.6755
+    },
+    {
+      "id": "R_0_2",
+      "lat": 12.925,
+      "lon": 77.677
+    },
+    {
+      "id": "R_0_3",
+      "lat": 12.925,
+      "lon": 77.67850000000001
+    },
+    {
+      "id": "R_0_4",
+      "lat": 12.925,
+      "lon": 77.68
+    },
+    {
+      "id": "R_1_0",
+      "lat": 12.9265,
+      "lon": 77.674
+    },
+    {
+      "id": "R_1_1",
+      "lat": 12.9265,
+      "lon": 77.6755
+    },
+    {
+      "id": "R_1_2",
+      "lat": 12.9265,
+      "lon": 77.677
+    },
+    {
+      "id": "R_1_3",
+      "lat": 12.9265,
+      "lon": 77.67850000000001
+    },
+    {
+      "id": "R_1_4",
+      "lat": 12.9265,
+      "lon": 77.68
+    },
+    {
+      "id": "R_2_0",
+      "lat": 12.928,
+      "lon": 77.674
+    },
+    {
+      "id": "R_2_1",
+      "lat": 12.928,
+      "lon": 77.6755
+    },
+    {
+      "id": "R_2_2",
+      "lat": 12.928,
+      "lon": 77.677
+    },
+    {
+      "id": "R_2_3",
+      "lat": 12.928,
+      "lon": 77.67850000000001
+    },
+    {
+      "id": "R_2_4",
+      "lat": 12.928,
+      "lon": 77.68
+    },
+    {
+      "id": "R_3_0",
+      "lat": 12.929499999999999,
+      "lon": 77.674
+    },
+    {
+      "id": "R_3_1",
+      "lat": 12.929499999999999,
+      "lon": 77.6755
+    },
+    {
+      "id": "R_3_2",
+      "lat": 12.929499999999999,
+      "lon": 77.677
+    },
+    {
+      "id": "R_3_3",
+      "lat": 12.929499999999999,
+      "lon": 77.67850000000001
+    },
+    {
+      "id": "R_3_4",
+      "lat": 12.929499999999999,
+      "lon": 77.68
+    },
+    {
+      "id": "R_4_0",
+      "lat": 12.931,
+      "lon": 77.674
+    },
+    {
+      "id": "R_4_1",
+      "lat": 12.931,
+      "lon": 77.6755
+    },
+    {
+      "id": "R_4_2",
+      "lat": 12.931,
+      "lon": 77.677
+    },
+    {
+      "id": "R_4_3",
+      "lat": 12.931,
+      "lon": 77.67850000000001
+    },
+    {
+      "id": "R_4_4",
+      "lat": 12.931,
+      "lon": 77.68
+    }
+  ],
+  "edges": [
+    {
+      "from": "R_0_0",
+      "to": "R_0_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_0",
+      "to": "R_1_0",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_1",
+      "to": "R_0_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_1",
+      "to": "R_1_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_2",
+      "to": "R_0_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_2",
+      "to": "R_1_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_3",
+      "to": "R_0_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_3",
+      "to": "R_1_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_0_4",
+      "to": "R_1_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_0",
+      "to": "R_1_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_0",
+      "to": "R_2_0",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_1",
+      "to": "R_1_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_1",
+      "to": "R_2_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_2",
+      "to": "R_1_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_2",
+      "to": "R_2_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_3",
+      "to": "R_1_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_3",
+      "to": "R_2_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_1_4",
+      "to": "R_2_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_0",
+      "to": "R_2_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_0",
+      "to": "R_3_0",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_1",
+      "to": "R_2_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_1",
+      "to": "R_3_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_2",
+      "to": "R_2_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_2",
+      "to": "R_3_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_3",
+      "to": "R_2_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_3",
+      "to": "R_3_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_2_4",
+      "to": "R_3_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_0",
+      "to": "R_3_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_0",
+      "to": "R_4_0",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_1",
+      "to": "R_3_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_1",
+      "to": "R_4_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_2",
+      "to": "R_3_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_2",
+      "to": "R_4_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_3",
+      "to": "R_3_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_3",
+      "to": "R_4_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_3_4",
+      "to": "R_4_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_4_0",
+      "to": "R_4_1",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_4_1",
+      "to": "R_4_2",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_4_2",
+      "to": "R_4_3",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    },
+    {
+      "from": "R_4_3",
+      "to": "R_4_4",
+      "base_weight": 1.0,
+      "risk_level": "LOW"
+    }
+  ],
+  "data_label": "Prototype / representative road network"
+}
